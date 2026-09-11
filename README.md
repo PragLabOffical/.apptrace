@@ -6,7 +6,7 @@ It provides deep visibility into running applications, allowing developers, secu
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Live Process Inspector:** Target and attach to any active Windows process from a live dropdown list.
 * **Real-Time Telemetry:** Continuous tracking of Working Set memory usage (MB) and active system thread counts via background polling timers.
@@ -20,7 +20,7 @@ It provides deep visibility into running applications, allowing developers, secu
 
 ---
 
-## 📦 System Requirements & Architecture
+## System Requirements & Architecture
 
 * **Operating System:** Windows 10 / Windows 11 (64-bit)
 * **Architecture:** `win-x64`
@@ -30,7 +30,7 @@ It provides deep visibility into running applications, allowing developers, secu
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Download the latest standalone binary (**`AppTrace_winx64.exe`**) from the [Releases](../../releases) tab.
 2. Run **`AppTrace_winx64.exe`**. If prompted, allow Administrator privileges to enable deep inspection of elevated processes.
@@ -39,6 +39,6 @@ It provides deep visibility into running applications, allowing developers, secu
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for details.
