@@ -1,6 +1,6 @@
 # AppTrace
 
-**AppTrace** is a C# WPF desktop process inspector designed for real-time diagnostic monitoring, process analysis, and system activity inspection on Windows.
+**AppTrace** is a C# desktop process inspector designed for real-time diagnostic monitoring, process analysis, and system activity inspection on Windows.
 
 It provides deep visibility into running applications, allowing developers, security researchers, and power users to inspect what executables are doing under the hood.
 
